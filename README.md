@@ -41,7 +41,7 @@ I graduated in December 2025, and nowadays I constantly seek to improve my progr
 
 ###
 
-<img align="right" height="220" src="gif/sonic_gif.gif"  />
+<img align="right" height="190" src="gif/sonic_gif.gif"  />
 
 ###
 
@@ -150,4 +150,5 @@ I graduated in December 2025, and nowadays I constantly seek to improve my progr
 ###
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
+
 
