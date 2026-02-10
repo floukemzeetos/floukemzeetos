@@ -21,7 +21,7 @@
 
 <br clear="both">
 
-<img align="left" height="250" src="gif/link_gif.gif"  />
+<img align="left" height="300" src="gif/link_gif.gif"  />
 
 ###
 
@@ -37,6 +37,7 @@ My name is Henrique, but you can call me Henri or Floukem, and here you will see
 My journey in the world of programming began in 2023, when I had my first contact with the art of programming something: ``Arduino in a project created at my school``.
 But it was in 2024 that my journey really began, when my school introduced the ``technical course in systems development``, in which I was able to learn and improve my skills in <strong>Python, HTML and CSS</strong>.
 I graduated in December 2025, and nowadays I constantly seek to improve my programming skills, mainly in basic and slightly elaborate programs in Python and in improving my front-end skills.
+Today, in 2026, I took a new step in programming, this time by pursuing a degree in ``Systems Analysis and Development at FATEC Ipiranga``.
 </div>
 
 ###
@@ -61,6 +62,11 @@ I graduated in December 2025, and nowadays I constantly seek to improve my progr
 ###
 
 <h3 align="center">🎓 Academic Training</h3>
+
+<div align=center>
+
+[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=FATEC%20Ipiranga%20Professor&course=Systems%20Analysis%20and%20Development&degree=Technologist&progress=3%25&img=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8UsvRpz8cQfctwz8pBZvz9lCZ--PzQ4eebQ&s)](https://github.com/Glauedson/github-readme-educational-badge)
+</div>
 
 <div align=center>
 
@@ -150,5 +156,6 @@ I graduated in December 2025, and nowadays I constantly seek to improve my progr
 ###
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
+
 
 
