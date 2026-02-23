@@ -65,7 +65,7 @@ Today, in 2026, I took a new step in programming, this time by pursuing a degree
 
 <div align=center>
 
-[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=FATEC%20Ipiranga%20Professor&course=Systems%20Analysis%20and%20Development&degree=Technologist&progress=3%25&img=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8UsvRpz8cQfctwz8pBZvz9lCZ--PzQ4eebQ&s)](https://github.com/Glauedson/github-readme-educational-badge)
+[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=FATEC%20Ipiranga&course=Systems%20Analysis%20and%20Development&degree=Technologist&progress=3%25&img=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8UsvRpz8cQfctwz8pBZvz9lCZ--PzQ4eebQ&s)](https://github.com/Glauedson/github-readme-educational-badge)
 </div>
 
 <div align=center>
@@ -156,6 +156,7 @@ Today, in 2026, I took a new step in programming, this time by pursuing a degree
 ###
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
+
 
 
 
