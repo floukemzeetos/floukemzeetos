@@ -116,13 +116,12 @@ Today, in 2026, I took a new step in programming, this time by pursuing a degree
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
-  
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo"  />
-  
-  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
- 
   <img src="https://skillicons.dev/icons?i=arduino" height="45" alt="arduino logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="45 alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=md" height="45" alt="markdown logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
 </div>
 
 ###
