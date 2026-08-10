@@ -70,7 +70,7 @@ Today, in 2026, I took a new step in programming, this time by pursuing a degree
 
 <div align=center>
 
-[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Milton%20Cernach%20Professor&course=Systems%20Development&degree=Technician&progress=100%25&img=https://yt3.googleusercontent.com/MS5ZtGJj1lhWBbgWB3MGhYALA8TOK1lYk-JRAlu1Qp0PS_w_44klR0sueodljUknPXPDid8gmJk=s900-c-k-c0x00ffffff-no-rj)](https://github.com/Glauedson/github-readme-educational-badge)
+[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Milton%20Cernach%20Professor&course=Systems%20Development&degree=Technician&progress=100%25&img=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1jvlQ6U_vRu2P3HDiuX9V11-93jeq1u78JI4yT7w6tdOClxB2N-bglMI&s=10)](https://github.com/Glauedson/github-readme-educational-badge)
 </div>
 
 ###
