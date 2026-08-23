@@ -22,10 +22,10 @@
 
 <div align=right style="text-align: justify;">
 
-Olá! Bem-vindo ao meu Laboratório (também conhecido como meu perfil do GitHub). Meu nome é Henrique, mas pode me chamar de Henri ou Floukem.
-Minha jornada no mundo da programação começou em 2023, onde tive meu primeiro contato com a programação por meio dos arduinos, na minha escola.
+Olá! Bem-vindo ao meu Laboratório (também conhecido como meu perfil do GitHub). Meu nome é Henrique, mas pode me chamar de Henri ou Floukem.<br>
+Minha jornada no mundo da programação começou em 2023, onde tive meu primeiro contato com a programação por meio dos arduinos, na minha escola.<br>
 Mas foi em 2024 que o mundo da programação ganhou força, quando minha escola introduziu o curso técnico em Desenvolvimento de Sistemas. Nele pude aprender e desenvolver habilidades em Python, HTML, CSS e MySQL.
-Em 2026, dei um novo passo: Iniciei minha graduação em ADS na Fatec.
+Em 2026, dei um novo passo: Iniciei minha graduação em ADS na Fatec.<br>
 Conclui meu curso em dezembro de 2025, e atualmente busco constantemente aperfeiçoar minhas habilidades, além de aprender coisas novas, principalmente em Python e nas linguagem componentes do Front-End.
 
 </div>
@@ -38,12 +38,12 @@ Conclui meu curso em dezembro de 2025, e atualmente busco constantemente aperfei
 
 <div align=left style="text-align: justify;">
 
-ᯓ★ Gosto de desenvolver projetos em grupo
-ᯓ★ Sempre disposto a ajudar quem quiser aprender mais sobre programação
-ᯓ★ Gosto de estar perto de pessoas que possam contribuir para a minha trajetória
-ᯓ★ Entusiasta de design com forte senso de identidade
-ᯓ★ Fã das músicas da Adele
-ᯓ★ Gosto de viver momentos marcantes com meus amigos
+ᯓ★ Gosto de desenvolver projetos em grupo<br>
+ᯓ★ Sempre disposto a ajudar quem quiser aprender mais sobre programação<br>
+ᯓ★ Gosto de estar perto de pessoas que possam contribuir para a minha trajetória<br>
+ᯓ★ Entusiasta de design com forte senso de identidade<br>
+ᯓ★ Fã das músicas da Adele<br>
+ᯓ★ Gosto de viver momentos marcantes com meus amigos<br>
 
 </div>
 
