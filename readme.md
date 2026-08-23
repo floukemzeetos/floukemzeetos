@@ -18,7 +18,7 @@
 
 <h4 align=center>Quem sou eu?</h4><br>
 
-<img src="assets/gif/Link.gif" align="left" width="240" style="margin-right: 15px;">
+<img src="assets/gif/Link.gif" align="left" width="210" style="margin-right: 15px;">
 
 <div align="justify">
 
