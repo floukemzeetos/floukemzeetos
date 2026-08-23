@@ -13,10 +13,9 @@
 
 ![GMarokov profile view count](https://komarev.com/ghpvc/?username=floukemzeetos&color=0077FF&style=for-the-badge) ![GitHub User's stars](https://img.shields.io/github/stars/floukemzeetos?style=for-the-badge&color=F2921D&logo=github) ![GitHub followers](https://img.shields.io/github/followers/Floukemzeetos?style=for-the-badge&color=6BB1AD&logo=github) [![Portfolio](https://img.shields.io/badge/-Portfólio-EC5E27?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
 </div>
-<div align=center>
 
-![bars](https://capsule-render.vercel.app/api?type=rect&height=5&color=0:66d9ff,100:0077ff&reversal=false&section=header&textBg=false)
-</div>
+---
+
 <h4 align=center>Quem sou eu?</h4><br>
 
 <img src="assets/gif/Link.gif" align="left" width="240" style="margin-right: 15px;">
@@ -30,10 +29,9 @@ Em 2026, dei um novo passo: Iniciei minha graduação em ADS na Fatec.<br>
 Conclui meu curso em dezembro de 2025, e atualmente busco constantemente aperfeiçoar minhas habilidades, além de aprender coisas novas, principalmente em Python e nas linguagem componentes do Front-End.
 
 </div>
-<div align=center>
 
-![bars](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:66d9ff,100:0077ff&reversal=false&section=header&textBg=false)
-</div>
+---
+
 <h4 align=center>Um pouco mais sobre mim...</h4><br>
 
 <img src="assets/gif/sonic.gif" align="right" width="140" style="margin-right: 15px;">
@@ -48,10 +46,9 @@ Conclui meu curso em dezembro de 2025, e atualmente busco constantemente aperfei
 ᯓ★ Gosto de viver momentos marcantes com meus amigos<br>
 
 </div>
-<div align=center>
 
-![bars](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:66d9ff,100:0077ff&reversal=false&section=header&textBg=false)
-</div>
+---
+
 <h4 align=center>GitHub Stats</h4>
 
 <div align="center">
@@ -59,6 +56,8 @@ Conclui meu curso em dezembro de 2025, e atualmente busco constantemente aperfei
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Floukemzeetos&layout=compact&theme=dark" height="180" alt="languages graph"  />
 
 </div>
+
+---
 
 <h5 align=center>Contributions Graph</div><br><br>
 
@@ -77,10 +76,9 @@ Conclui meu curso em dezembro de 2025, e atualmente busco constantemente aperfei
 [![badge](https://github-readme-educational-badge.vercel.app/pt/badge?name=FATEC%20Ipiranga&course=ADS&degree=Tecnólogo&progress=16%25&img=https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/1/2022/08/fatec-identidade.jpg)](https://github.com/Glauedson/github-readme-educational-badge) &nbsp;[![badge](https://github-readme-educational-badge.vercel.app/pt/badge?name=E.E.%20PEI.%20Milton%20Cernach&course=Desenv.%20de%20Sistemas&degree=Técnico&progress=100%25&img=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1jvlQ6U_vRu2P3HDiuX9V11-93jeq1u78JI4yT7w6tdOClxB2N-bglMI&s=10)](https://github.com/Glauedson/github-readme-educational-badge)
 
 </div>
-<div align=center>
 
-![bars](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:66d9ff,100:0077ff&reversal=false&section=header&textBg=false)
-</div>
+---
+
 <h4 align=center>Meios de comunicação</h4>
 
 <div align=center>
@@ -88,10 +86,9 @@ Conclui meu curso em dezembro de 2025, e atualmente busco constantemente aperfei
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-006DC3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henri-queiroz) [![Instagram](https://img.shields.io/badge/-Instagram-ba2028?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz.henryi) [![Outlook](https://img.shields.io/badge/-Outlook-203F9A?style=for-the-badge&logo=outlook&logoColor=white)](mailto:hqueiroz.dev@hotmail.com)
 
 </div>
-<div align=center>
 
-![bars](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:66d9ff,100:0077ff&reversal=false&section=header&textBg=false)
-</div>
+---
+
 <h4 align=center>Tech Stack</h4>
 
 <div align="center">
@@ -162,10 +159,8 @@ Conclui meu curso em dezembro de 2025, e atualmente busco constantemente aperfei
 
 </div>
 
-<div align=center>
+---
 
-![bars](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:66d9ff,100:0077ff&reversal=false&section=header&textBg=false)
-</div>
 <h4 align=center>Além do Código</h4>
 
 <div align="center">
