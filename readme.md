@@ -16,7 +16,7 @@
 
 ---
 
-<h4 align=center>Quem sou eu?</h4><br>
+<h3 align=center>Quem sou eu?</h3><br>
 
 <img src="assets/gif/Link.gif" align="left" width="210" style="margin-right: 15px;">
 
@@ -32,7 +32,7 @@ Conclui meu curso em dezembro de 2025, e atualmente busco constantemente aperfei
 
 ---
 
-<h4 align=center>Um pouco mais sobre mim...</h4><br>
+<h3 align=center>Um pouco mais sobre mim...</h3><br>
 
 <img src="assets/gif/sonic.gif" align="right" width="140" style="margin-right: 15px;">
 
@@ -49,7 +49,7 @@ Conclui meu curso em dezembro de 2025, e atualmente busco constantemente aperfei
 
 ---
 
-<h4 align=center>GitHub Stats</h4>
+<h3 align=center>GitHub Stats</h4>
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Floukemzeetos&show_icons=true&locale=pt-br&custom_title=Floukemzeetos's%20GitHub%20Stats&theme=dark&icon_color=66d9ff" height="180" alt="stats graph"  />
@@ -59,7 +59,7 @@ Conclui meu curso em dezembro de 2025, e atualmente busco constantemente aperfei
 
 ---
 
-<h5 align=center>Contributions Graph</div><br><br>
+<h4 align=center>Contributions Graph</h4></div><br><br>
 
 <div align=center>
 
@@ -69,7 +69,7 @@ Conclui meu curso em dezembro de 2025, e atualmente busco constantemente aperfei
 
 ---
 
-<h4 align=center>Formação acadêmica</h4>
+<h3 align=center>Formação acadêmica</h3>
 
 <div align="center">
   
@@ -79,7 +79,7 @@ Conclui meu curso em dezembro de 2025, e atualmente busco constantemente aperfei
 
 ---
 
-<h4 align=center>Meios de comunicação</h4>
+<h3 align=center>Meios de comunicação</h3>
 
 <div align=center>
 
@@ -89,7 +89,7 @@ Conclui meu curso em dezembro de 2025, e atualmente busco constantemente aperfei
 
 ---
 
-<h4 align=center>Tech Stack</h4>
+<h3 align=center>Tech Stack</h3>
 
 <div align="center">
 
@@ -161,7 +161,7 @@ Conclui meu curso em dezembro de 2025, e atualmente busco constantemente aperfei
 
 ---
 
-<h4 align=center>Além do Código</h4>
+<h3 align=center>Além do Código</h3>
 
 <div align="center">
 
