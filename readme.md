@@ -52,8 +52,9 @@ Conclui meu curso em dezembro de 2025, e atualmente busco constantemente aperfei
 <h3 align=center>GitHub Stats</h4>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Floukemzeetos&show_icons=true&locale=pt-br&custom_title=Floukemzeetos's%20GitHub%20Stats&theme=dark&icon_color=66d9ff" height="180" alt="stats graph"  />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Floukemzeetos&layout=compact&theme=dark" height="180" alt="languages graph"  />
+  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=floukemzeetos&show_icons=true&include_all_commits=true&theme=dark&icon_color=66d9ff&height=180)](https://github-stats-extended.vercel.app/api?username=floukemzeetos&show_icons=true&include_all_commits=true&theme=dark&icon_color=66d9ff&height=180)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=floukemzeetos&layout=compact&langs_count=6&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=floukemzeetos&layout=compact&langs_count=6&theme=dark&height=180)
 
 </div>
 
