@@ -73,7 +73,7 @@ Conclui meu curso em dezembro de 2025, e atualmente busco constantemente aperfei
 
 <div align="center">
   
-[![badge](https://github-readme-educational-badge.vercel.app/pt/badge?name=FATEC%20Ipiranga&course=ADS&degree=Tecnólogo&progress=16%25&img=https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/1/2022/08/fatec-identidade.jpg)](https://github.com/Glauedson/github-readme-educational-badge) &nbsp;[![badge](https://github-readme-educational-badge.vercel.app/pt/badge?name=E.E.%20PEI.%20Milton%20Cernach&course=Desenv.%20de%20Sistemas&degree=Técnico&progress=100%25&img=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1jvlQ6U_vRu2P3HDiuX9V11-93jeq1u78JI4yT7w6tdOClxB2N-bglMI&s=10)](https://github.com/Glauedson/github-readme-educational-badge)
+[![badge](https://github-readme-educational-badge.vercel.app/pt/badge?name=FATEC%20Ipiranga&course=ADS&degree=Tecnólogo&progress=18%25&img=https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/1/2022/08/fatec-identidade.jpg)](https://github.com/Glauedson/github-readme-educational-badge) &nbsp;[![badge](https://github-readme-educational-badge.vercel.app/pt/badge?name=E.E.%20PEI.%20Milton%20Cernach&course=Desenv.%20de%20Sistemas&degree=Técnico&progress=100%25&img=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1jvlQ6U_vRu2P3HDiuX9V11-93jeq1u78JI4yT7w6tdOClxB2N-bglMI&s=10)](https://github.com/Glauedson/github-readme-educational-badge)
 
 </div>
 
