@@ -63,7 +63,7 @@ Conclui meu curso em dezembro de 2025, e atualmente busco constantemente aperfei
 
 <div align=center>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Floukemzeetos&custom_title=Floukemzeetos%20contributions%20Graph&theme=tokyo-night&days=15&height=330&title_color=fcfbf2)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Alternative github activity graph (Fabiano Couto)](https://fabianocouto-activity-graph.vercel.app/graph/?username=Floukemzeetos&custom_title=Floukemzeetos%20contributions%20Graph&theme=tokyo-night&days=15&height=330&title_color=fcfbf2)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
